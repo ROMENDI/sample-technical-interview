@@ -65,5 +65,5 @@ class BirthdayCake
     birthday_cake
   end
 end
-
-BirthdayCake.celebrate(10)
+cake = BirthdayCake.new
+cake.celebrate(10)
